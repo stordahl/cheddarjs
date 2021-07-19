@@ -1,0 +1,146 @@
+[
+  {
+    "_createdAt": "2021-07-18T16:02:46Z",
+    "_id": "drafts.492216fb-d01d-4c18-af6e-ae35564c3cd0",
+    "_rev": "i2jh2w-n3l-3zw-g42-mztlf9rou",
+    "_type": "product",
+    "_updatedAt": "2021-07-18T16:05:33Z",
+    "blurb": {
+      "_type": "localeString",
+      "en": "this is a blurb"
+    },
+    "body": {
+      "_type": "localeBlockContent",
+      "en": [
+        {
+          "_key": "17142a50af1c",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "488887ba0088",
+              "_type": "span",
+              "marks": [],
+              "text": "this is a longer description "
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ]
+    },
+    "defaultProductVariant": {
+      "_type": "productVariant",
+      "images": [
+        {
+          "_key": "b4a22483c280",
+          "_type": "image",
+          "asset": {
+            "_ref": "image-b9019b18029b4b212e765ca040a474021c15313a-1406x2499-jpg",
+            "_type": "reference"
+          }
+        }
+      ],
+      "price": 1,
+      "sku": "12412354",
+      "taxable": true,
+      "title": "default title"
+    },
+    "slug": {
+      "_type": "slug",
+      "current": "prod-title"
+    },
+    "title": "prod title",
+    "variants": [
+      {
+        "_key": "4471827ee226",
+        "_type": "productVariant",
+        "images": [
+          {
+            "_key": "b5b39da7c36f",
+            "_type": "image",
+            "asset": {
+              "_ref": "image-da537a645b8cf0b2a97e9af85f5e9ed1772c436f-4167x4167-jpg",
+              "_type": "reference"
+            }
+          }
+        ],
+        "price": 2,
+        "sku": "45678",
+        "taxable": true,
+        "title": "variant title"
+      }
+    ]
+  },
+  {
+    "_createdAt": "2021-07-18T16:02:46Z",
+    "_id": "drafts.492216fb-d01d-4c18-af6e-ae35564c3cd0",
+    "_rev": "i2jh2w-n3l-3zw-g42-mztlf9rou",
+    "_type": "product",
+    "_updatedAt": "2021-07-18T16:05:33Z",
+    "blurb": {
+      "_type": "localeString",
+      "en": "this is a blurb"
+    },
+    "body": {
+      "_type": "localeBlockContent",
+      "en": [
+        {
+          "_key": "17142a50af1c",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "488887ba0088",
+              "_type": "span",
+              "marks": [],
+              "text": "this is a longer description "
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ]
+    },
+    "defaultProductVariant": {
+      "_type": "productVariant",
+      "images": [
+        {
+          "_key": "b4a22483c280",
+          "_type": "image",
+          "asset": {
+            "_ref": "image-b9019b18029b4b212e765ca040a474021c15313a-1406x2499-jpg",
+            "_type": "reference"
+          }
+        }
+      ],
+      "price": 1,
+      "sku": "12412354",
+      "taxable": true,
+      "title": "default title"
+    },
+    "slug": {
+      "_type": "slug",
+      "current": "prod-title"
+    },
+    "title": "prod title",
+    "variants": [
+      {
+        "_key": "4471827ee226",
+        "_type": "productVariant",
+        "images": [
+          {
+            "_key": "b5b39da7c36f",
+            "_type": "image",
+            "asset": {
+              "_ref": "image-da537a645b8cf0b2a97e9af85f5e9ed1772c436f-4167x4167-jpg",
+              "_type": "reference"
+            }
+          }
+        ],
+        "price": 2,
+        "sku": "45678",
+        "taxable": true,
+        "title": "variant title"
+      }
+    ]
+  }
+]
